@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.leapfin.invoice
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, gradle, http-client, kotest, kotlin, ktor, logback, readme, shade, yaml]
